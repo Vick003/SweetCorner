@@ -1,0 +1,275 @@
+html body {
+    width: 1000px;
+    margin: auto;
+    color: #754b23;
+}
+#main-header {
+    margin-bottom:0px;
+}
+
+
+
+ul {
+    width:70%;
+    margin-left: 460px;
+}
+     
+
+
+ul li {
+   display: inline;
+    margin: 20px;
+   list-style-type: none;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 16px; 
+    text-transform: uppercase;
+    color:brown;
+}
+
+
+#main-logo {
+    background: url(images/logo.png);
+    width:264px;
+    height:192px;
+  margin-left: 35%;
+}
+
+.dancin {
+font-family: Dancing Script;
+}
+#text-below-logo {
+text-align: center;
+}
+
+#brown-line {
+    height: 24px;
+    width: 100%;
+    background: #754b23;
+    margin-top: 20px;
+   
+}
+
+footer { 
+    position: relative;
+    background-color: #06b4af;
+    color: white;
+    height: 80px;
+    margin-top: 20px;
+}
+
+#copyright-text {
+    position: absolute;
+    bottom: 0px;
+    left: 350px;
+}
+
+#foot-dots {
+    position: absolute;
+    background: url(images/dots-footer.png);
+    width: 54px;
+    height: 44px;
+    left: 50px;
+    bottom: 10px;
+}
+
+#phone-logo {
+    position: absolute;
+    bottom: 15px; 
+    right: 100px;
+}
+#contact-number {
+    position: absolute;
+    bottom: 11px;
+    right: 105px;
+    margin-left:0;
+}
+.header-text-main {
+    margin-top: 0px;
+    margin-bottom:0px;
+    line-height: 25px;
+}
+
+#main {
+    position: relative;
+    margin-top: 0;
+    background: url(images/strips2.png) repeat-y; 
+    background-position: 100%; 100%;
+    height: auto;   
+   
+}
+
+#dots-main {
+    position: absolute;
+    right:30px;
+    top:40px;
+       
+}
+#main-body-text {
+ width: 450px;
+padding-left: 25px;
+}
+#text-below-main-middle{
+    text-align: center;
+}
+
+#about-middle {
+position: relative;
+width:100%;
+    height:377px;
+    
+
+background: url(images/strips1.png)
+    repeat-y;
+background-position: 100% 45%;
+}
+
+#dots-about {
+    position: absolute;
+    left: 65%;
+    top: 80px;
+}
+
+
+#middle-text-about {
+    width: 475px;
+    height: 100%;
+    margin-left: 30px;
+}
+
+#middle-about {
+    position: absolute;
+top:0;
+}
+
+#box-1-about {
+
+margin-top: 40px;
+}
+
+#services-body-container {
+ background: url(images/strips1.png) repeat-y top right;  position:relative;
+    height: 100%;
+    width: 100%;
+}
+#services-body-text {
+    width: 475px;
+    margin-left: 25px;
+}
+
+#services-body-text h3 {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+#services-body-text:nth-child(1);
+padding-top: 0;
+
+
+
+#services-bodytop-h3 {
+    margin-top: 0px;
+}
+#services-dots{
+position:absolute;
+top:180px;
+right:300px;
+}
+
+#box-2 {
+margin-top: 25px;
+}
+
+#contact-section {
+    position:relative;
+    height:100%;
+    width:100%;
+}
+
+#contact-text {
+    margin-top: 75px;
+    margin-left: 40px;
+    width: 400px;
+}
+.red {
+    background-color: #e86b35;
+}
+
+.blue {
+    background-color: #06b4af;
+    }
+.yellow {
+    background-color: #f6b53e;
+}
+
+#contact-forms{
+    position:absolute;
+    top:-20px;
+    right: 125px;
+}
+
+#contact-forms input{
+    width: 310px;
+    height: 35px;
+    margin-bottom:10px;
+    border:none;
+    text-transform:capitalize;
+    color:#300000;
+}
+
+textarea {
+    width: 310px;
+    height: 115px;
+    margin-bottom:10px;
+    border: none;
+    color: #300000 !Important;
+}
+
+#send {
+    width: 155px !Important;
+    height: 35px;
+    color: white !Important;
+    margin-left: 160px;
+    text-transform: uppercase;
+    border: none;
+    
+}
+
+
+
+table {
+width: 218px;
+    height: 35px;
+    background: #f6ede6;
+    margin-left: 80px;
+
+    
+}
+
+
+.day {
+    text-align: center;
+    margin: 0px 10px;
+    border-spacing:20px;
+}
+
+.time {
+    text-align: center;
+    border-spacing: 20px;
+}
+#up-dots {
+padding-left: 300px;
+}
+
+#contact-section {
+
+background: url(images/down-dots.png) center bottom no-repeat;
+    
+
+}
+
+#phone-orders {
+width: 300px !Important;
+margin-left: 40px !Important;
+}
